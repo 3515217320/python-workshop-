@@ -1,1 +1,1 @@
-# clarusway-python-workshop
+# python-workshop
